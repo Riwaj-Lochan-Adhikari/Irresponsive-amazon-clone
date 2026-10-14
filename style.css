@@ -1,4 +1,4 @@
-/* ctrl+ k + ctrl +c for commenting  and Ctrl + Shift + T for reopening recently closed tabs  */
+
 /* all short forms used have been well documented in index.html folder */
 * {
     margin: 0;
@@ -28,7 +28,7 @@ body {
 #navbar {
     width: 100vw;
     height: 9vh;
-    /* see in yt how to see the exact size of divs in yt or ask a friend */
+    
     background-color: #FF6200;
     color: white;
     display: flex;
