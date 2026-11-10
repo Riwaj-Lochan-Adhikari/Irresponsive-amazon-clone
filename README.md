@@ -1,4 +1,4 @@
-# Amazon Homepage Clone 🛒
+# Amazon Homepage Clone 
 
 An Amazon-inspired e-commerce homepage built using HTML and CSS. This project recreates Amazon's homepage layout, navigation, product sections, and visual design.
 
