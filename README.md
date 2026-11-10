@@ -4,7 +4,7 @@ An Amazon-inspired e-commerce homepage built using HTML and CSS. This project re
 
 ## 🌐 Live Demo
 
-[View Live Website](YOUR_VERCEL_LINK)
+[[View Live Website](YOUR_VERCEL_LINK)](https://vercel.com/riwaj-lochan-adhikaris-projects/vercel-amazon-clone)
 
 ##  Features
 
