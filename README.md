@@ -6,14 +6,6 @@ Created clone of Amazon to learn CSS but forgot to make it responsive
 
 [(https://vercel.com/riwaj-lochan-adhikaris-projects/vercel-amazon-clone)](https://vercel-amazon-clone.vercel.app/)
 
-##  Features
-
-- Amazon-inspired navigation bar
-- Search bar UI
-- Product category sections
-- Promotional banners
-- Product display cards
-- Footer section
 
  ##  Technologies Used
 
