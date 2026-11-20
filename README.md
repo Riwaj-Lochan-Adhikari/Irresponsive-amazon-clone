@@ -25,3 +25,10 @@ Created clone of Amazon to learn CSS but forgot to make it responsive
 - HTML page structuring
 - CSS styling and layouts
 
+## Disclaimer
+
+This project is an educational frontend development project created for learning and demonstration purposes.
+
+It is not affiliated with, endorsed by, or associated with Amazon.com, Inc.
+
+Amazon and its logo are trademarks of Amazon.com, Inc. or its affiliates. All third-party trademarks, product images, and related assets belong to their respective owners.
